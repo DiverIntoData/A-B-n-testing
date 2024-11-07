@@ -2,6 +2,7 @@
 # A/B/n Testing Statistics Calculator 📊✨
 
 In this repository, you will find scripts to calculate the minimum sample size required when allocation ratios are not equal, and if observed changes in your experiments are statistically significant.
+
 You can find the presentation on: https://docs.google.com/presentation/d/1EezSoGVJwg7zhUDMpNpNCpgVKQF4MPzBt2UVPte203Y/edit?usp=sharing
 
 ## 1. **A/B/n Test Statistical Calculator for Discrete Variables** 🖱️📈
